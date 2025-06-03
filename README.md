@@ -4,7 +4,7 @@ This is a simple and interactive web application that allows users—especially 
 
 ## 🌐 Demo
 
-👉 
+👉 [Click here to try the app live](https://happiness-quiz-app.vercel.app/)
 
 ## 🌟 Purpose
 
