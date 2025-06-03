@@ -28,3 +28,4 @@ The app is inspired by the findings of the **Macedonian HBSC Study** (Health Beh
 - **Tailwind CSS** – For responsive and elegant styling
 - **Vite** – Fast build tool for development and production
 
+
